@@ -1,0 +1,85 @@
+{
+  "status": "OK",
+  "results": [
+  {
+    "name": "Polisi",
+    "number": "110",
+    "description": "Layanan darurat kepolisian untuk berbagai kejadian kriminal dan keadaan darurat lainnya."
+  },
+  {
+    "name": "Ambulans",
+    "number": "118",
+    "description": "Layanan darurat ambulans untuk keadaan medis darurat yang memerlukan evakuasi cepat."
+  },
+  {
+    "name": "Pemadam Kebakaran",
+    "number": "113",
+    "description": "Layanan darurat pemadam kebakaran untuk menangani kebakaran dan situasi darurat lainnya yang melibatkan api."
+  },
+  {
+    "name": "SAR Nasional",
+    "number": "115",
+    "description": "Layanan Search and Rescue (SAR) nasional untuk penanggulangan bencana dan evakuasi darurat."
+  },
+  {
+    "name": "Badan Nasional Penanggulangan Bencana (BNPB)",
+    "number": "117",
+    "description": "Layanan darurat dari BNPB untuk penanggulangan bencana alam dan keadaan darurat lainnya."
+  },
+  {
+    "name": "Polisi Militer",
+    "number": "112",
+    "description": "Layanan darurat polisi militer untuk keadaan darurat yang melibatkan personel militer atau instalasi militer."
+  },
+  {
+    "name": "Layanan Kesehatan Jiwa",
+    "number": "119",
+    "description": "Layanan kesehatan jiwa untuk bantuan dan konseling bagi individu dengan masalah kesehatan mental."
+  },
+  {
+    "name": "Pelayanan Informasi Keracunan",
+    "number": "500454",
+    "description": "Layanan informasi dan bantuan pertama dalam kasus keracunan."
+  },
+  {
+    "name": "Badan SAR Nasional",
+    "number": "115",
+    "description": "Layanan SAR untuk penanggulangan bencana, kecelakaan, dan evakuasi darurat."
+  },
+  {
+    "name": "Komnas Perempuan",
+    "number": "021-3903963",
+    "description": "Layanan bantuan dan advokasi untuk perempuan yang mengalami kekerasan atau diskriminasi."
+  },
+  {
+    "name": "Komnas Anak",
+    "number": "021-31901556",
+    "description": "Layanan bantuan dan advokasi untuk anak-anak yang mengalami kekerasan atau perlakuan tidak layak."
+  },
+  {
+    "name": "Konseling Remaja",
+    "number": "021-129",
+    "description": "Layanan konseling dan dukungan bagi remaja yang membutuhkan bantuan psikologis atau emosional."
+  },
+  {
+    "name": "Palang Merah Indonesia",
+    "number": "021-7992325",
+    "description": "Layanan bantuan, donor darah, dan informasi darurat dari Palang Merah Indonesia."
+  },
+  {
+    "name": "Layanan Darurat PLN",
+    "number": "123",
+    "description": "Layanan darurat listrik untuk melaporkan gangguan atau masalah terkait pasokan listrik."
+  },
+  {
+    "name": "Layanan Darurat PDAM",
+    "number": "(021) 5704265",
+    "description": "Layanan darurat air untuk melaporkan gangguan atau masalah terkait pasokan air bersih."
+  },
+  {
+    "name": "Layanan Darurat Gas",
+    "number": "(021) 1234567",
+    "description": "Layanan darurat untuk melaporkan kebocoran atau masalah terkait pasokan gas."
+  }
+]
+}
