@@ -1,4 +1,4 @@
-# ID Emergency Contacts
+# ☎️ ID Emergency Contacts
 
 Repository ini berisi daftar kontak darurat di Indonesia yang dikategorikan berdasarkan jenis layanan darurat. Data disajikan dalam format JSON dan dapat diakses melalui URL tertentu.
 
