@@ -1,6 +1,12 @@
 {
   "status": "OK",
   "results": [
+    {
+      "name": "Hotline Darurat Nasional",
+      "number": "112",
+      "description": "Layanan Nomor Panggilan Darurat 112 merupakan layanan yang dapat digunakan saat terjadi keadaan darurat dengan menghubungi nomor 112 yang akan terhubung dengan Pusat Panggilan Darurat (Call Center 112) yang dibangun oleh pemerintah daerah.",
+      "images": "https://raw.githubusercontent.com/maventama/ID_Emergency_Contacts/main/images/hotline-nasional.png"
+    },
   {
     "name": "Polisi",
     "number": "110",
@@ -30,12 +36,6 @@
     "number": "117",
     "description": "Layanan darurat dari BNPB untuk penanggulangan bencana alam dan keadaan darurat lainnya.",
     "images": "https://raw.githubusercontent.com/maventama/ID_Emergency_Contacts/main/images/bnpb.png"
-  },
-  {
-    "name": "Hotline Darurat Nasional",
-    "number": "112",
-    "description": "Layanan Nomor Panggilan Darurat 112 merupakan layanan yang dapat digunakan saat terjadi keadaan darurat dengan menghubungi nomor 112 yang akan terhubung dengan Pusat Panggilan Darurat (Call Center 112) yang dibangun oleh pemerintah daerah.",
-    "images": "https://raw.githubusercontent.com/maventama/ID_Emergency_Contacts/main/images/hotline-nasional.png"
   },
   {
     "name": "Layanan Kesehatan Jiwa",
